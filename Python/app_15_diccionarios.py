@@ -1,7 +1,7 @@
 #limpiar pantalla antes de comenzar
 import os
 #comando para limpiar pantalla
-os.system ("cls") 
+os.system("cls") 
 
 '''
     En esta seccion veremos como utilizar diccionarios en python, ya que son listas comunes pero con un indicador visible

@@ -1,7 +1,7 @@
 #limpiar pantalla antes de comenzar
 import os
 #comando para limpiar pantalla
-os.system ("cls") 
+os.system("cls") 
 
 numeros = [1,2,3,4,5,6,7,8,9,10,11,25,87,68,15,23,47]
 print(str(numeros)+"\n")

@@ -6,7 +6,7 @@
 #limpiar pantalla antes de comenzar
 import os
 #comando para limpiar pantalla
-os.system ("cls") 
+os.system("cls") 
 
 
 ''' Creamos una lista para empezar con el ejemplo '''

@@ -1,7 +1,7 @@
 #limpiar pantalla antes de comenzar
 import os
 #comando para limpiar pantalla
-os.system ("cls") 
+os.system("cls") 
 
 num = int(input("Dame un numero: "))
 pot = int(input("\nPotencia para elevar: "))

@@ -1,7 +1,7 @@
 #limpiar pantalla antes de comenzar
 import os
 #comando para limpiar pantalla
-os.system ("cls") 
+os.system("cls") 
 
 calificaciones = {"Kevin":8,"Rodrigo":9,"Rodolfo":10,"Jesus":10,"Uriel":8}
 print("\tLista orginal sin modificaciones\n"+str(calificaciones)+"\n")
